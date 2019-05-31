@@ -1,0 +1,26 @@
+
+title{
+    text-align: center;
+    .botones{
+   margin: auto;
+}
+.botones button{
+    padding: 10px 40px 10px 40px;
+    background-color: white;
+    color: orange;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.botones button:hover{
+  background-color: orange;
+  color: white;
+}
+body{
+ 
+background-image: url();
+    background-attachment: fixed;
+background-position: 0,0;
+    font-family: helvetica,arial,san-serif
+    line-height:20px;
+}
